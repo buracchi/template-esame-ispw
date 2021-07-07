@@ -8,7 +8,7 @@ La configurazione delle dipendenze è gestita da Gradle e non è necessario aggi
 ## Guida d'uso
 
 - Clona la repository
-- Rinomina il progetto come preferisci ed aggiorna il file settings.gradle (il nome di default è EsameISPW)
+- Rinomina la cartella clonata ed aggiorna il file settings.gradle (il nome di default è EsameISPW)
 - Importa il progetto su Eclipse selezionando File>Import>Gradle>Existing Gradle Project
 - Esegui il task gradle ide>eclipse
 - Premi il tasto destro sulla cartella importata nel Project Explorer e seleziona Refresh
